@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS Website Layout</title>
+<link rel="stylesheet" type="text/css" href="website.css">
+</head>
+<body>
+<!-- class bernama header -->
+<div class="header">
+<h1>Guardian Tales Wiki</h1>
+<h2>Characters</h2>
+</div>
+<!-- class bernama header -->
+<div class="topnav">
+<a href="website.html">Home</a>
+<a href="Knight.html">Knight</a>
+<a href="Beth.html">Beth</a>
+<a href="FP.html">Future Princess</a>
+</div>
+<!-- class bernama row -->
+<div class="row">
+<!-- class bernama column side -->
+<div class="column side">
+<h2>Main Character</h2>
+<p>Player/ Guardian/ Knight</p>
+<img src="Knight.jpg" alt="Foto KNEK" width="400">
+<p>This is your story and you decide your fate.</p>
+</div>
+
+<!-- class bernama column side -->
+<div class="column middle">
+<h2>Main Content</h2>
+<p>The Knight (you) is a new recruit who passed the entrance exam and is being trained along with the other guardians at the Guardian's Keep by Knight Captain Eva the Leader of the Guardians.
+Captain Eva tells you and all the other guardians that it is your duty as Guardians to protect Kanterbury from evil. After that, she tells you to step up and report yourself.</p>
+<p>At this point of the game, you are given two characters to choose from as your main character: Male Knight or Female Knight. You are then asked to choose the knight's personality. 
+These personalities each have a different kind of voice and tone so pick which best suits you. Lastly, you must name your character which is limited to only 10 characters.</p>
+<p>After this, Captain Eva congratulates you for passing the entrance exams but she is interrupted by another guardian that came to tell her that a large unidentified object from the sky is approaching. 
+You and Captain Eva followed the guardian back to the walls to see what was going on and saw the object appearing beneath the clouds.</p>
+<p>An invasion was occurring. Bob got hit by the fireballs from the invasion and got knocked off the wall and so Linda quickly went off to help and save him.</p>
+<p>Captain Eva quickly told the guardian to alert the other guardians and set up a defense line at wall 7 but before you could leave; you were thrown off the walls by the fireballs. 
+You along with the others got knocked off the wall and went off flying but before you were about to hit the ground; you were saved by an unknown person.</p>
+<p>The unknown person went off running to the path that was ahead and you followed her but you couldn't catch up to the unknown person. The unknown person leaves a weapon on the path that you were heading to, 
+which is a Lvl. 1 Tutorial Sword. With the new weapon you acquired, you fought off many enemy invader soldiers, invader archers, and invader warriors along the way.</p>
+<p>As you went off and followed the path, you came across the two guardians from earlier: Bob and Linda. However, they are cornered by the enemy invaders. This is your first choice if you want to help them fight off the invaders (This is the first quest you complete) or just leave them to be beaten. 
+If you help them out then you are given Lv. 1 Tutorial Shield as a reward and Linda tells you that Captain Eva is on the east side and asks you to go and help her out.</p>
+<p>After that, you went on forward to the path ahead and saw Knight Captain Eva fighting off many invaders with ease. She tells you to join the others at the wall 7 defense line but you refused to do so and told her that you want to help her on her way to the throne and protect the Queen. 
+Captain Eva accepts and likes your spirit, so she joins your team (This is your first hero recruit (temporarily)).</p>
+<p>Following the path with Eva, who helps you defeat the enemies, you will come across two standing lanterns and one on the ground. On the left, you can see two signs hinting you to not burn them because there is no treasure. If you pick up the lantern from the ground, you can use it to light them on fire, 
+which will open a new path to a treasure chest. In the chest, you will find 2000 gold (Burn the other sign before you met Bob and Linda and get another 2000 gold).</p>
+<p>Going back and following the main path again, you will come across the first boss of the game. It is Lv. 1 Minotaur The invader's brutal monster. If you keep your distance, you can let Captain Eva deal with it, but you can also deal good damage as long as you dodge the charging attacks shown by the sword symbol under the monster. Or you can brute force it and never dodge since the boss can't do enough damage to kill you. 
+Some attacks show the area of effect as a red area as well, but if you're going to speed run the prologue you might as well ignore them.</p>
+<p>After defeating the Minotaur, you can enter the Kanterbury Throne room where Camilla the Queen and Little Princess are sending people to safety by teleportation spells. You enter the room with Captain Eva just as Queen Camilla has sent the last two away. The Little Princess barely has time to celebrate your appearance when an unknown presence enters the room. A hooded figure appears on the throne, knocking you all to prone with strange magic, with the exception of the Little Princess. 
+The Little Princess goes runs around, wishing you to wake up to no avail. She ends up using a mysterious power to seal the hooded figure with chains and passes out.</p>
+<p>You wake up right after Queen Camilla and Captain Eva. Camilla informs you that the seal won't last long. She urges you all to teleport and you comply. Camilla successfully teleports you to the sky, but as you're flying away, the hooded figure follows you and starts shooting magic at you. 
+The figure makes both Eva and Camilla fall and since you don't know how to fly, you fall as well. You keep a tight grip on Little Princess as you fall on the way to Kanterbury Ancient Ruins.</p>
+</div>
+
+<!-- class bernama column side -->
+<div class="column side">
+<h2>About</h2>
+<p>The number of pre-registered Guardian Tales users reached over one million before its global launch in 2020. Moreover, Guardian Tales was ranked #3 by revenue and #1 by number of free downloads in the Chinese market when it 
+launched. Guardian Tales quickly became the most downloaded game across the two major mobile segments just two days after launching in Japan. Guardian Tales also maintained its status as the most downloaded game for two weeks in 
+a row before breaking through the accumulated download figure of three million within four months of its official launch in Japan. On the other hand, the game was ranked #1 by sales on the Google Play Store within a month of 
+its launch, and just shot to #3 by revenue on the Apple App Store after "World 10 Chapter" was updated last January.</p>
+<img src="GT.jpg" alt="Foto GT" width="400">
+<h2>Download Here!</h2>
+<a href="https://play.google.com/store/apps/details?id=com.kakaogames.gdts&hl=id&gl=US&pli=1">Download Guardian Tales</a>
+</div>
+</div>
+<!-- class bernama footer -->
+<div class="footer">
+<p>Reinardus Arielle Hadi Gunawan XI2-31</p>
+</div>
+</body>
+</html>

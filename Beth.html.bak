@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS Website Layout</title>
+<link rel="stylesheet" type="text/css" href="website.css">
+</head>
+<body>
+<!-- class bernama header -->
+<div class="header">
+<h1>Guardian Tales Wiki</h1>
+<h2>Characters</h2>
+</div>
+<!-- class bernama header -->
+<div class="topnav">
+<a href="website.html">Home</a>
+<a href="Knight.html">Knight</a>
+<a href="Beth.html">Beth</a>
+<a href="FP.html">Future Princess</a>
+</div>
+<!-- class bernama row -->
+<div class="row">
+<!-- class bernama column side -->
+<div class="column side">
+<h2 style="text-align:center">Information</h2>
+<p style="text-align:center";><img src="BETHP.png" alt="Beth" width="290"></p>
+<p style="text-align:center";><img src="Beth Stats 2.png" alt="Beth" width="290"></p>
+</div>
+<!-- class bernama column side -->
+<div class="column middle" style="height: 1072px"; >
+<h2>Prologue</h2>
+<p style="line-height: 2";>Beth is a magician within the invaders, a high ranking priest of the invader order.</p><br>
+<p style="line-height: 2">She is a drama queen strategist. War is brain before brawn. She crafts her plans while predicting and reacting to her opponent's move as if she is playing a game of chess. Beth likes to add some 
+dramatic elements to her plays, especially when she is planning her grand entrance. It probably would have been better to pose as Penny, who was beloved by everyone, and go around the camp while betraying everyone's love 
+has to be her adding that dramatic aspect to her plan. She can sacrifice without hesitation any piece on her chess board to achieve her goals, because all those moves are steps to serve a greater good for the invader's 
+mission and to fulfill the Savior's prophecy that was never wrong.</p><br>
+<p style="line-height: 2">To the invaders the Savior's prophecy is a "maxim" that cannot be doubted. Beth, like all other invaders, learned and preached the words of the Savior and trained to "reclaim" the world. Beth's 
+cunning game of chess based on the maxim should always prevail. Pitiful savages would never understand it, and she pities the pitiful savages for not understanding it. Then who is this Guardian that casts doubt on Beth's 
+faith? Everything else is as the prophecy, but this Guardian causes chaos and discord and it annoys Beth. Is the Savior wrong, or is the Guardian's heresy corrupting savior's pureness? Beth has no choice but to be in 
+doubt.</p><br>
+<p style="line-height: 2">She loathes when someone calls her real name and everyone is required to call her 'High Priest'. It seems to be a dearest name for her.</p>
+</div>
+<!-- class bernama column side -->
+<div class="column side">
+<h2 style="text-align:center">Stats</h2>
+<p style="text-align:center";><img src="Beth Stats.png" alt="beth stats" width="330"></p>
+</div>
+</div>
+<!-- class bernama footer -->
+<div class="footer">
+<p>Reinardus Arielle Hadi Gunawan XI2-31</p>
+</div>
+</body>
+</html>

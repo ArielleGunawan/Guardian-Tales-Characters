@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS Website Layout</title>
+<link rel="stylesheet" type="text/css" href="website.css">
+</head>
+<body>
+<!-- class bernama header -->
+<div class="header">
+<h1>Guardian Tales Wiki</h1>
+<h2>Characters</h2>
+</div>
+<!-- class bernama header -->
+<div class="topnav">
+<a href="website.html">Home</a>
+<a href="Knight.html">Knight</a>
+<a href="Beth.html">Beth</a>
+<a href="FP.html">Future Princess</a>
+<a href="Loraine.html">Loraine</a>
+</div>
+<!-- class bernama row -->
+<div class="row">
+<!-- class bernama column side -->
+<div class="column side">
+<h2 style="text-align:center">Information</h2>
+<p style="text-align:center";><img src="Loraine.png" alt="Loreng" width="290"></p>
+<p style="text-align:center";><img src="Loraine Stats 2.png" alt="Loreng" width="290"></p>
+</div>
+<!-- class bernama column side -->
+<div class="column middle" style="height: 1072px"; >
+<h2>Prologue</h2>
+<p style="line-height: 2";>Loraine is the owner of the Kanterbury inn which is well known among adventurers for its high-quality services. She will always greet you with a smile full of kindness but with a hint of darkness.<br>
+
+No one knows much about her. Her past, age, where she is from, what race she is - nothing. Even when you witness her die right in front of you, she'll be ready to greet you back at the inn.<br>
+
+There is one rule when you stay at her inn. Never look up while you are eating.</p>
+</div>
+<!-- class bernama column side -->
+<div class="column side">
+<h2 style="text-align:center">Stats</h2>
+<p style="text-align:center";><img src="Loraine Stats.png" alt="Loreng stats" width="330"></p>
+</div>
+</div>
+<!-- class bernama footer -->
+<div class="footer">
+<p>Reinardus Arielle Hadi Gunawan XI2-31</p>
+</div>
+</body>
+</html>

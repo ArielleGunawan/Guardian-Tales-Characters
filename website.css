@@ -1,0 +1,86 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+margin: 0;
+}
+
+/* Style untuk header */
+.header {
+color: black;
+background-image:url('BGT.jpg');
+background-size: 100% 100%;
+background-attachment:fixed;
+padding: 50px;
+text-align: center;
+font-family:Arial;
+font-size:35px;
+}
+.header h2{
+font-family:Arial;
+font-size: 40px;}
+
+/* Style untuk menu navigasi atas/top navigation bar */
+.topnav {
+overflow: hidden;
+background-color: #0F141C;
+}
+
+/* Style untuk link-link topnav/topnav links */
+.topnav a {
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* Mengubah warna link pada saat mouse di link (hover) */
+.topnav a:hover {
+background-color: lemonchiffon;
+color: orange;
+}
+
+/* Membuat tiga kolom yang tidak sama di mana masing-masing kolom bersifat “float” terhadap yang
+lainnya */
+.column {
+float: left;
+padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+width: 25%;
+height: 1072px;
+background-color : #2C3D55;
+color: white;
+font-family: Arial;
+line-height: 2;
+text-align: justify;
+}
+
+/* Middle column */
+.column.middle {
+width: 50%;
+background-color : #223043;
+color: white;
+font-family: Arial;
+text-align: justify;
+}
+
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+/* Style untuk footer */
+.footer {
+background-color: #0F141C;
+color: white;
+padding: 10px;
+text-align: center;
+}
